@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GauravRousha
 - 👀 I’m interested in Software 
-- 🌱 I’m currently learning ASP Dot NET 7
-- 💞️ I’m looking to collaborate on Dot NET Projects 
+- 🌱 I’m currently python programming
+- 💞️ I’m looking to collaborate on Django framework
 - 📫 How to reach me gauravrousha@gmail.com
 
 <!---
